@@ -1,2 +1,2 @@
 # passgen
-simple password generator on C
+Simple password generator on C
