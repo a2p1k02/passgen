@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <time.h>
+#include "passgen.h"
 
 typedef enum {
 	false = 0,
